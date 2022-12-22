@@ -1,0 +1,24 @@
+{
+  "name": "node-todoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gabbal/node-todoApp.git"
+  },
+  "author": "Gabbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabbal/node-todoApp/issues"
+  },
+  "homepage": "https://github.com/Gabbal/node-todoApp#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^9.1.4",
+    "uuid": "^9.0.0"
+  }
+}
